@@ -1,21 +1,13 @@
-<<<<<<< HEAD
-# l200230165_widgets
+# Kamus Bunga Flutter
 
-A new Flutter project.
+Aplikasi untuk para flower enthusiast yang ingin menyimpan catatan penemuan spesies bunga di internet.
 
-## Getting Started
+# Fitur
+- Tambah bunga (spesies, makna, attach stok image dari website untuk ditampilkan ke aplikasi)
+- Edit & hapus spesies bunga
+- Favorit 
+- Popup menu
+- Responsive grid
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# l200230165_widgets
->>>>>>> faef40d5b4f1f3625a8af26176f253445d53e5d8
+# Screenshot
+![App](assets/screenshots/flowerapp.png)
